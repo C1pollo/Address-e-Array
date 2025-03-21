@@ -31,7 +31,9 @@ int main (void)
     *d = 5;
     printf("Il valore di d è %d\n", *d);
     free(d);
-    
+     //programma 
+
+     
 
     return 0;
 }
